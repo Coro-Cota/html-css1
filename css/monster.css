@@ -1,0 +1,64 @@
+* {
+    font-family: 'Ink Free', sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background: #13294B;
+    height: 80px;
+    padding: auto;
+}
+
+header p{
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+aside {
+    text-align: center;
+}
+aside img {
+    max-width: 100%;
+    padding: 0 1em;
+}
+
+img#main_banner {
+    max-width: 100%;
+}
+
+body {
+    background-color: grey;
+}
+nav, main {
+    background: white;
+    padding: 1em;
+    border: 2px solid #13294B;
+    border-bottom: 5px solid #13294B;
+    border-radius: 0.5em;
+}
+nav ul {
+    list-style: none;
+    line-height: 1.5em;
+    padding: 0;
+}
+
+main h1 {
+    font-family: 'Ink Free', sans-serif;
+    margin-top: 0.25em;
+}
+
+.monsters img{
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+
+}
+
+
+
+nav ul {
+    list-style: none;
+    line-height: 1.5em;
+    padding: 0;
+}
